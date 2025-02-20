@@ -33,6 +33,8 @@ I'm **Yash**, a Computer Science student at the Indraprastha Institute of Inform
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![PyMOL](https://img.shields.io/badge/PyMOL-73777B?style=for-the-badge&logo=PyMOL&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
 
 
 🔹 **Tools & Technologies**: Jupyter Lab, Git, PyMOL, NumPy, IntelliJ IDEA, Visual Studio Code, CLion
