@@ -3,6 +3,22 @@
 
 I'm **Yash**, a Computer Science student at the Indraprastha Institute of Information Technology, Delhi. I'm passionate about the intersection of technology and biology, particularly in applying machine learning and deep learning to biosciences.
 
+## 🔬 Research & Experience
+
+### 🏥 Junior Researcher, AIIMS Delhi (June 2024 - Aug 2024)
+- Automated leukemia detection using **flow cytometry data**.
+- Leveraged **Deep Learning & AI** to enhance diagnostic accuracy.
+
+### 📊 Undergraduate Researcher, IIITD (Jan 2023 - Jan 2024)
+- Developed a **machine learning model** to identify lung diseases.
+- Utilized datasets from **NIH, CheXpert, and PadChest** for training.
+
+### 🎨 Backend Developer, SAPPhIRE Project, IIITD (Jan 2024 - Apr 2024)
+- Worked on **Semantic Analysis Platform for AI-driven Design Support**.
+- Utilized **Natural Language Processing (NLP)** to enhance designer productivity.
+
+---
+
 ## 💻 Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
