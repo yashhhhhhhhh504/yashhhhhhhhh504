@@ -10,6 +10,14 @@ I'm **Yash**, a Computer Science student at the Indraprastha Institute of Inform
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 GitHub Stats & Trackers
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashhhhhhhhh504&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashhhhhhhhh504&layout=compact&theme=radical)
+
+📈 **Contribution Graph:**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashhhhhhhhh504&theme=react-dark)
+
 
 <!--
 **yashhhhhhhhh504/yashhhhhhhhh504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
