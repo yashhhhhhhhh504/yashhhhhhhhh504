@@ -1,22 +1,34 @@
-## Hi there 
+# Yash Dhiman
 
+MSc Bioinformatics, University of Birmingham (Dept. of Cancer and Genomic Sciences)
+B.Tech Computer Science & Bio Science, IIIT Delhi
 
-I'm **Yash**, a Computer Science student at the Indraprastha Institute of Information Technology, Delhi. I'm passionate about the intersection of technology and biology, particularly in applying machine learning and deep learning to biosciences.
+I work at the intersection of deep learning and cancer genomics — building computational tools for clinical sequencing analysis, fine-tuning foundation models on single-cell data, and engineering end-to-end NGS pipelines.
 
-##  Research & Experience
+## Current Research
 
-###  Junior Researcher, AIIMS Delhi (June 2024 - Aug 2024)
-- Automated leukemia detection using **flow cytometry data**.
-- Leveraged **Deep Learning & AI** to enhance diagnostic accuracy.
+**scGPT for Hepatocellular Carcinoma** (MSc Dissertation, supervised by Dr. Deena Gendoo)
+Fine-tuning a 46.6M-parameter transformer on liver endothelial scRNA-seq to classify healthy vs NASH/MASLD samples. 93.8% test accuracy with domain-adversarial batch correction. TensorFlow implementation trained on BlueBEAR HPC.
+→ [scgpt_finetune](https://github.com/yashhhhhhhhh504/scgpt_finetune)
 
-### Undergraduate Researcher, IIITD (Jan 2023 - Jan 2024)
-- Developed a **machine learning model** to identify lung diseases.
-- Utilized datasets from **NIH, CheXpert, and PadChest** for training.
+**AI-Powered Genomic Analysis Platform** (Birmingham)
+Clinical-grade germline WGS/WES pipeline: Nextflow-orchestrated BWA-MEM2 + dual variant calling (GATK HaplotypeCaller / DeepVariant), Neo4j knowledge graph annotation (ClinVar, gnomAD, COSMIC, OncoKB, OMIM), ensemble foundation model scoring (DNABERT-2, HyenaDNA, Nucleotide Transformer), and RAG-driven ACMG/AMP clinical report generation.
 
-### Backend Developer, SAPPhIRE Project, IIITD (Jan 2024 - Apr 2024)
-- Worked on **Semantic Analysis Platform for AI-driven Design Support**.
-- Utilized **Natural Language Processing (NLP)** to enhance designer productivity.
+**Multimodal AML Diagnostics** (AIIMS New Delhi)
+Built a multimodal detection system fusing flow cytometry FCS files, microscopy slides, and automated gating for acute myeloid leukaemia classification with interpretable cross-modal validation.
 
+## Publication
+
+**Transcriptomic Analysis of Gingival Tissues: Insights Into Gene Expression Profiles**
+Published in Wiley — [doi:10.1155/ijog/1427141](https://doi.org/10.1155/ijog/1427141)
+Differential expression analysis of healthy gingival epithelium and connective tissue using R/Bioconductor (limma, ComBat, clusterProfiler).
+
+## Technical Focus
+
+**Bioinformatics:** BWA-MEM2, GATK, DeepVariant, ANNOVAR, samtools, Nextflow, Snakemake, R/Bioconductor (DESeq2, limma, clusterProfiler)
+**ML/DL:** TensorFlow, scikit-learn, foundation models (scGPT, DNABERT-2, HyenaDNA, Nucleotide Transformer)
+**Infrastructure:** Linux/HPC, Slurm, Docker, Neo4j, PostgreSQL, FastAPI, Azure
+**Languages:** Python, R, Bash, C++
 ---
 
 ## Technical Skills
