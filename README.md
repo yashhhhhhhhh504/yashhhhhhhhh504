@@ -23,13 +23,6 @@ Built a multimodal detection system fusing flow cytometry FCS files, microscopy 
 Published in Wiley — [doi:10.1155/ijog/1427141](https://doi.org/10.1155/ijog/1427141)
 Differential expression analysis of healthy gingival epithelium and connective tissue using R/Bioconductor (limma, ComBat, clusterProfiler).
 
-## Technical Focus
-
-**Bioinformatics:** BWA-MEM2, GATK, DeepVariant, ANNOVAR, samtools, Nextflow, Snakemake, R/Bioconductor (DESeq2, limma, clusterProfiler)
-**ML/DL:** TensorFlow, scikit-learn, foundation models (scGPT, DNABERT-2, HyenaDNA, Nucleotide Transformer)
-**Infrastructure:** Linux/HPC, Slurm, Docker, Neo4j, PostgreSQL, FastAPI, Azure
-**Languages:** Python, R, Bash, C++
----
 
 ## Technical Skills
 
